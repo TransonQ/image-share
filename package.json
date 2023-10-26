@@ -1,0 +1,11 @@
+{
+  "name": "image-share",
+  "private": true,
+  "version": "1.0.0",
+  "description": "github 图床",
+  "main": "index.js",
+  "author": "TransonQ",
+  "scripts": {
+    "push": "zx ./push.mjs"
+  }
+}
